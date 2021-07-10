@@ -1,5 +1,5 @@
 1. Ivan Scherbakov
-2. Contacts: telegram *@IvanMindS*, whatsapp *+79254330928*
+2. Contacts: telegram *@IvanMindS*, whatsapp *+79254330928*, skype *Ivan_lenvideo*
 3. About me. I am developing towards web dev. I have experience in developing an application using React Native + Node.js + Express.js + Firebase. I am constantly learning new things, especially in React on the way to becoming a high-quality web developer
 4. Skills:\ 
 JavaScript\
